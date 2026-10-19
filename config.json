@@ -14,9 +14,9 @@
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
 
-  "nickNameBot": "─꯭‎— [,] 👑 𝗡𝗜𝗝𝗛𝗨𝗠 𝗕𝗢𝗧 ✨:)>𝟑",
+  "nickNameBot": "Kireeee",
 
-  "prefix": ",",
+  "prefix": "/",
 
   "adminOnly": {
     "enable": false,
@@ -24,8 +24,8 @@
   },
 
   "adminBot": [
-    "61578037541206",
-    "61578037541206"
+    "61592853883908",
+    "61592778947207"
   ],
 
   "security": {
@@ -46,7 +46,7 @@
     "enable": false,
     "whiteListIds": [
       "61589656899295",
-      "61589656899295"
+      "61592778947207"
     ],
     "notes": "If enabled, only IDs in whiteListIds can use the bot."
   },
